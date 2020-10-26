@@ -1,0 +1,30 @@
+title: My Resume
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# about section
+fname: Deepak
+lname: Raj
+email: deepak008@live.com
+linkedin_username: deepak-raj-35887386
+github_username:  codeperfectplus
+facebook_username: mrperfect9015
+about_me: >- # this means to ignore newlines until "baseurl:"
+  I am Skilled in Data Science, Machine Learning, Deep Learning As Well As Web Development 
+  Knowledge Strong professional with a Master's Diploma in Data Science.
+
+# Experince
+
+# Education
+
+# skills
+
+# Interests
+
+# Awards
+  
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
