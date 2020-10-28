@@ -1,24 +1,22 @@
-title: My Resume
-baseurl: "" # the subpath of your site, e.g. /blog
+title: Resume
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # about section
+
 fname: Deepak
 lname: Raj
 email: deepak008@live.com
+mobile: +91- 9818183049
+address: New Delhi
 linkedin_username: deepak-raj-35887386
+dev_username: codeperfectplus
 github_username:  codeperfectplus
 facebook_username: mrperfect9015
 about_me: >- # this means to ignore newlines until "baseurl:"
-  I am Skilled in Data Science, Machine Learning, Deep Learning As Well As Web Development
-  Knowledge Strong professional with a Master's Diploma in Data Science.
-
-
-# Interests
-
-
-
-# Awards
+  To obtain the job of a Data Scientist to utilize exceptional research and programming skills.Skilled in Python,
+  Database, Data Science, Public Speaking, As Well As Web Development Skills. Strong professional with a Bachelor’s
+  Degree focused in Chemistry from Rajdhani College and currently pursuing Diploma In Data Science.
 
 
 # Build settings

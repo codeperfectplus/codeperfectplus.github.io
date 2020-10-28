@@ -4,5 +4,11 @@
     "course": "B.Sc. (Hons.) Chemistry",
     "description":  "",
     "time_period": "2013-2016"
+  },
+  {
+    "institute": "Ims ProSchool",
+    "course": "Pg in Data Science",
+    "description": "",
+    "time_period": "2019-2020"
   }
 ]

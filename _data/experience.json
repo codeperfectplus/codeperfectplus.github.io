@@ -1,8 +1,14 @@
 [
   {
-    "job_title": "Job-Title",
-    "company": "company",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "time_period": "July 2019 - Present"
+    "job_title": "Assitant",
+    "company": "ITPO, New Delhi",
+    "description": "Sorted, opened and routed incoming correspondence and deliveries to help senior leaders respond quickly to business and customer requirements.",
+    "time_period": "Jul 2018 - Oct 2019"
+  },
+  {
+    "job_title": "Open Source Contributor",
+    "company": "Py-Contributor",
+    "description": "",
+    "time_period": "Aug 2020 - Present"
   }
 ]
