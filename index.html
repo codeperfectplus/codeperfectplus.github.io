@@ -2,9 +2,8 @@
 layout: default
 title: resume
 ---
-
     <!-- Navigation-->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav"><a class="navbar-brand js-scroll-trigger" href="#page-top"><span class="d-block d-lg-none">Clarence Taylor</span><span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt=""></span></a>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav"><a class="navbar-brand js-scroll-trigger" href="#page-top"><span class="d-block d-lg-none">Clarence Taylor</span><span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/deepakraj.png" alt=""></span></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
@@ -13,7 +12,8 @@ title: resume
           <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
           <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
           <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
-          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">projects</a></li>
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#articles">Articles</a></li>
         </ul>
       </div>
     </nav>
@@ -91,8 +91,7 @@ title: resume
                 <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS">
                 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&amp;style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="BootStrap">
                 <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&amp;style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django">
-                <img src="https://img.shields.io/badge/FastAPI%20-%2307405e.svg?&amp;style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
-                <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React"></p>
+                <img src="https://img.shields.io/badge/FastAPI%20-%2307405e.svg?&amp;style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">                
                 <p><img src="https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&amp;logo=visual-studio-code" alt="VSCode">
                 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
                 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github">
@@ -124,8 +123,23 @@ title: resume
         <div class="resume-section-content">
           <h2 class="mb-5">Projects</h2>
           <ul class="fa-ul mb-0">
-            <li><span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>Google Analytics Certified Developer</li>
+            {% for project in site.data.projects %}
+            <li>
+              <a href="{{project.url}}"><span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>{{project.project_name}}</a>
+            </li>            
+            {% endfor %}
           </ul>
         </div>
       </section>
+      <section class="resume-section" id="articles">
+        <div class="container mt-2 p-2">
+          {% for article in site.data.myDevArticles %}
+          <a href="{{article.url}}">{{article.title}}</a>
+          <p>{{article.description}}</p>
+          <p>Article View {{article.page_views_count}}, Total Reaction : {{article.positive_reactions_count}}</p>
+          <hr>
+          {% endfor %}
+      </div>
+      
+        </section>
     </div>

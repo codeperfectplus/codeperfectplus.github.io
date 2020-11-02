@@ -1,0 +1,22 @@
+[
+    {
+        "project_name": "AudioBook 🔊",
+        "url": "https://pypi.org/project/audiobook/"
+    },
+    {
+        "project_name": "Titanic- Kaggle Comptetion",
+        "url": "https://github.com/codePerfectPlus/KaggleComptetionTitanic"
+    },
+    {
+        "project_name": "Dog-Breed Identifier Kaggle Comptetion",
+        "url": "https://github.com/Py-Contributors/Dog-Breed-Classifier-App"
+    },
+    {
+        "project_name": "Data Analysis with Jupyter",
+        "url": "https://github.com/codePerfectPlus/DataAnalysisWithJupyter"
+    },
+    {
+        "project_name": "Banglore House Price Predictions",
+        "url": "https://github.com/codePerfectPlus/BengaluruHousePriceRegression"
+    }
+]
