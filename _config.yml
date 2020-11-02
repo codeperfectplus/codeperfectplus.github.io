@@ -18,7 +18,6 @@ about_me: >- # this means to ignore newlines until "baseurl:"
   Database, Data Science, Public Speaking, As Well As Web Development Skills. Strong professional with a Bachelor’s
   Degree focused in Chemistry from Rajdhani College and currently pursuing Diploma In Data Science.
 
-
 # Build settings
 theme: minima
 plugins:
