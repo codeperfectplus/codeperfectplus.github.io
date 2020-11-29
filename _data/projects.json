@@ -1,5 +1,9 @@
 [
     {
+        "project_name": "OpenCV Face-Filter and Detection API",
+        "url": "https://opencv-api.herokuapp.com/"
+    },
+    {
         "project_name": "AudioBook 🔊",
         "url": "https://pypi.org/project/audiobook/"
     },
@@ -8,12 +12,12 @@
         "url": "https://github.com/codePerfectPlus/KaggleComptetionTitanic"
     },
     {
-        "project_name": "Dog-Breed Identifier Kaggle Comptetion",
-        "url": "https://github.com/Py-Contributors/Dog-Breed-Classifier-App"
+        "project_name": "Facial KeyPoints Detection",
+        "url": "https://github.com/codePerfectPlus/facial-keypoints-detection"
     },
     {
-        "project_name": "Data Analysis with Jupyter",
-        "url": "https://github.com/codePerfectPlus/DataAnalysisWithJupyter"
+        "project_name": "Face Emotions Detection",
+        "url": "https://github.com/codePerfectPlus/facial-emotion-recognition"
     },
     {
         "project_name": "Banglore House Price Predictions",
