@@ -1,14 +1,21 @@
-[
+[ 
   {
-    "job_title": "Assitant",
-    "company": "ITPO, New Delhi",
-    "description": "Sorted, opened and routed incoming correspondence and deliveries to help senior leaders respond quickly to business and customer requirements.",
-    "time_period": "Jul 2018 - Oct 2018"
+    "job_title": "AI Developer",
+    "company": "Appzlogic, Noida sec-2",
+    "description": "Developing, Testing and Deploying cutting edge AI applications",
+    "time_period": "Feb 2021 - Present"
   },
   {
     "job_title": "Open Source Contributor",
     "company": "Py-Contributor",
-    "description": "",
-    "time_period": "Aug 2020 - Present"
+    "description": "Designing, Building and testing tools to support open source community with team.",
+    "time_period": "Aug 2020 - Jan 2021"
+  },
+  {
+    "job_title": "Office Assitant",
+    "company": "ITPO, New Delhi",
+    "description": "Sorted, opened and routed incoming correspondence and deliveries to help senior leaders respond quickly to business and customer requirements.",
+    "time_period": "Jul 2018 - Oct 2018"
   }
+  
 ]
