@@ -13,7 +13,6 @@ title: resume
           <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
           <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#certificates">Certificates</a></li>
           <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
-          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#articles">Articles</a></li>
         </ul>
       </div>
     </nav>
@@ -133,16 +132,4 @@ title: resume
           </ul>
         </div>
       </section>
-      <hr class="m-0">
-      <section class="resume-section" id="articles">
-        <div class="container mt-2 p-2">
-          {% for article in site.data.myDevArticles %}
-          <a href="{{article.url}}">{{article.title}}</a>
-          <p>{{article.description}}</p>
-          <p>Article View {{article.page_views_count}}, Total Reaction : {{article.positive_reactions_count}}</p>
-          <hr>
-          {% endfor %}
-      </div>
-      
-        </section>
-    </div>
+       </div>
