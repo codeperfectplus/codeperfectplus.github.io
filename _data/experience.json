@@ -1,33 +1,47 @@
-[ 
-  {
-    "job_title": "Associate Data Scientist",
-    "company": "Scry Analytics, Banglore",
-    "description": ["Developing, Testing and Deploying cutting edge AI applications", "Line 2"],
-    "time_period": "April 2022 - Present"
-  },
-  {
-    "job_title": "Associate Data Scientist",
-    "company": "Datakalp, Banglore",
-    "description": ["Developing, Testing and Deploying cutting edge AI applications"],
-    "time_period": "Sep 2021 - Mar 2022"
-  },
-  {
-    "job_title": "AI Developer",
-    "company": "Appzlogic, Noida sec-2",
-    "description": ["Developing, Testing and Deploying cutting edge AI applications"],
-    "time_period": "Feb 2021 - Aug 2021"
-  },
-  {
-    "job_title": "Open Source Contributor",
-    "company": "Py-Contributor",
-    "description": ["Designing, Building and testing tools to support open source community with team."],
-    "time_period": "Aug 2020 - Jan 2021"
-  },
-  {
-    "job_title": "Office Assitant",
-    "company": "ITPO, New Delhi",
-    "description": ["Sorted, opened and routed incoming correspondence and deliveries to help senior leaders respond quickly to business and customer requirements."],
-    "time_period": "Aug 2018 - Jan 2019"
-  }
-  
+[
+    {
+        "job_title": "Associate Data Scientist",
+        "company": "Scry Analytics, Gurugram",
+        "description": [
+            "will update"
+        ],
+        "time_period": "April 2022 - Present"
+    },
+    {
+        "job_title": "Associate Data Scientist",
+        "company": "Datakalp, Banglore",
+        "description": [
+            "Designed, developed, and implemented computer vision solutions for business problems",
+            "Experienced in building robust APIs, Data pipelines to handle configuration, deployment, and benchmarking of ML/AI models using FastAPI / Flask frameworks.",
+            "Experienced in visually impactful web dashboards, client reports with Python (Dash/H2O Wave), Tableau, and Powerpoints for product output, performance, and accuracy to understand the user behavior and improve the product"
+        ],
+        "time_period": "Sep 2021 - Mar 2022"
+    },
+    {
+        "job_title": "AI Developer",
+        "company": "Appzlogic, Noida sec-2",
+        "description": [
+            "Designed, developed, and implemented computer vision and NLP problems using deep Learning and google cloud tools.",
+            "Worked closely with the android development team to deploy AI applications.",
+            "Build AI models from scratch and convert them into the application program interface."
+        ],
+        "time_period": "Feb 2021 - Aug 2021"
+    },
+    {
+        "job_title": "Open Source Contributor",
+        "company": "Py-Contributor",
+        "description": [
+            "Designed, developed, and tested tools to support the open-source community.",
+            "worked as team leader to manage the project workflow."
+        ],
+        "time_period": "Aug 2020 - Jan 2021"
+    },
+    {
+        "job_title": "Office Assitant",
+        "company": "ITPO, New Delhi",
+        "description": [
+            "Sorted, opened and routed incoming correspondence and deliveries to help senior leaders respond quickly to business and customer requirements."
+        ],
+        "time_period": "Aug 2018 - Jan 2019"
+    }
 ]
