@@ -2,13 +2,13 @@
     {
         "project_name": "Cybel",
         "description": "Discord bot for the cybel community",
-        "url": "https://github.com/Py-Contributors/cybel",
+        "github_url": "https://github.com/Py-Contributors/cybel",
         "is_pypi": false
     },
     {
         "project_name": "AudioBook",
         "description": "Listen to your favorite books with this audiobook app",
-        "url": "https://github.com/Py-Contributors/audiobook",
+        "github_url": "https://github.com/Py-Contributors/audiobook",
         "is_pypi": true,
         "pypi_name": "audiobook",
         "pypi_url": "https://pypi.org/project/audiobook/"
@@ -16,7 +16,7 @@
     {
         "project_name": "Dataset-Convertor",
         "description": "Converts object detection dataset from one format to another",
-        "url": "https://github.com/Py-Contributors/dataset-convertor",
+        "github_url": "https://github.com/Py-Contributors/dataset-convertor",
         "is_pypi": true,
         "pypi_name": "dataset-convertor",
         "pypi_url": "https://pypi.org/project/dataset-convertor/"
@@ -24,27 +24,35 @@
     {
         "project_name": "RandomProfileGenerator",
         "description": "Generate random profiles for your projects",
-        "url": "https://github.com/Py-Contributors/RandomProfileGenerator",
+        "github_url": "https://github.com/Py-Contributors/RandomProfileGenerator",
         "is_pypi": true,
         "pypi_name": "random-profile",
         "pypi_url": "https://pypi.org/project/random-profile/"
     },
     {
+        "project_name": "Website Cloner",
+        "description": "Clone any website with this tool",
+        "github_url": "https://github.com/Py-Contributors/site-cloner",
+        "is_pypi": true,
+        "pypi_name": "site-cloner",
+        "pypi_url": "https://pypi.org/project/site-cloner/"
+    },
+    {
         "project_name": "Stock-Dashboard",
         "description": "Dashboard/Alert to track stock prices",
-        "url": "https://github.com/Py-Contributors/Stock-Dashboard",
+        "github_url": "https://github.com/Py-Contributors/Stock-Dashboard",
         "is_pypi": false
     },
     {
         "project_name": "Awesome-Python-Scripts",
         "description": "collections for useful python scripts",
-        "url": "https://github.com/Py-Contributors/awesomeScripts/",
+        "github_url": "https://github.com/Py-Contributors/awesomeScripts/",
         "is_pypi": false
     },
     {
         "project_name": "FileMoverGUI",
         "description": "GUI tool to manage files smartly",
-        "url": "https://github.com/Py-Contributors/FileMoverGUI",
+        "github_url": "https://github.com/Py-Contributors/FileMoverGUI",
         "is_pypi": false
     }
 ]

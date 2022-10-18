@@ -6,6 +6,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 fname: Deepak
 lname: Raj
+full_name: Deepak Raj
+profile_pic: assets/img/profile.jpg
 email: deepak008@live.com
 mobile: +91- 9818183049
 address: New Delhi
