@@ -3,7 +3,8 @@
         "job_title": "Associate Data Scientist",
         "company": "Scry Analytics, Gurugram",
         "description": [
-            "will update"
+            "Create ML pipeline to extract entity/value from IDs(e.g. Passports, Driver’s Licence) in PDF images formats using OCR, text preprocessing, text classification for collatio.",
+            "Improved the OCR model by introducing the boundary detection model for differentiating between multiple cards in a single doc."
         ],
         "time_period": "April 2022 - Present"
     },
@@ -11,9 +12,10 @@
         "job_title": "Associate Data Scientist",
         "company": "Datakalp, Banglore",
         "description": [
-            "Designed, developed, and implemented computer vision solutions for business problems",
+            "Designed, developed, and implemented computer vision solutions for business problems.",
             "Experienced in building robust APIs, Data pipelines to handle configuration, deployment, and benchmarking of ML/AI models using FastAPI / Flask frameworks.",
-            "Experienced in visually impactful web dashboards, client reports with Python (Dash/H2O Wave), Tableau, and Powerpoints for product output, performance, and accuracy to understand the user behavior and improve the product"
+            "Building and maintaining dashboards and other reporting tools to monitor targeting models, and other business metrics relevant to managing core data science products.",
+            "Experienced in visually impactful web dashboards, and client reports with Python (Dash/H2O Wave), Tableau, and Powerpoints for product output, performance, and accuracy to understand user behavior and improve the product."
         ],
         "time_period": "Sep 2021 - Mar 2022"
     },
@@ -40,7 +42,11 @@
         "job_title": "Office Assitant",
         "company": "ITPO, New Delhi",
         "description": [
-            "Sorted, opened and routed incoming correspondence and deliveries to help senior leaders respond quickly to business and customer requirements."
+            "Performed general office duties, including answering multi-line phones, routing telephone calls or messages to appropriate staff",
+            "Assisted manager in all aspects of business operations.",
+            "Provided guidance and assistance in understanding the client's requirements"
+            
+            
         ],
         "time_period": "Aug 2018 - Jan 2019"
     }

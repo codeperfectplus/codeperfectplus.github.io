@@ -1,5 +1,9 @@
 [
   {
+    "name": "Business Analytics",
+    "issued_by" : "IMS Proschool Pvt. LTd."
+  },
+  {
     "name": "Post Gradute Diploma in Data science and Deep learning",
     "issued_by": "IMS Proschool Pvt. LTd."
   },
@@ -10,5 +14,9 @@
   {
     "name":  "Introduction to Deep learning",
     "issued_by":"Great Learning"
+  },
+  {
+    "name": "Introduction to Neural Networks and Deep Learning",
+    "issued_by": "IMS Proschool Pvt. LTd."
   }
 ]
