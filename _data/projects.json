@@ -1,30 +1,37 @@
 [
     {
-        "project_name": "Real Time Face Mask Detection",
-        "url": "https://github.com/codePerfectPlus/Face-Mask-Detection-OpenCV-TFOD"
+        "project_name": "Cybel",
+        "description": "Discord bot for the cybel community",
+        "url": "https://github.com/Py-Contributors/cybel"
     },
     {
-        "project_name": "Facial KeyPoints Detection",
-        "url": "https://github.com/codePerfectPlus/facial-keypoints-detection"
+        "project_name": "AudioBook",
+        "description": "Listen to your favorite books with this audiobook app",
+        "url": "https://github.com/Py-Contributors/audiobook"
     },
     {
-        "project_name": "Face Emotions Detection",
-        "url": "https://github.com/codePerfectPlus/facial-emotion-recognition"
+        "project_name": "Dataset-Convertor",
+        "description": "Converts object detection dataset from one format to another",
+        "url": "https://github.com/Py-Contributors/dataset-convertor"
     },
     {
-        "project_name": "India Academia Connect AI Hackathon October 2021",
-        "url": "https://github.com/codePerfectPlus/IACAH"
+        "project_name": "RandomProfileGenerator",
+        "description": "Generate random profiles for your projects",
+        "url": "https://github.com/Py-Contributors/RandomProfileGenerator"
     },
     {
-        "project_name": "Deep convolutional autoencoder for image denoising",
-        "url": "https://github.com/codePerfectPlus/autoEncoders"
+        "project_name": "Stock-Dashboard",
+        "description": "Dashboard/Alert to track stock prices",
+        "url": "https://github.com/Py-Contributors/Stock-Dashboard"
     },
     {
-        "project_name": "Kaggle Captcha Detection",
-        "url": "https://github.com/codePerfectPlus/OCR-Captcha"
+        "project_name": "Awesome-Python-Scripts",
+        "description": "collections for useful python scripts",
+        "url": "https://github.com/Py-Contributors/awesomeScripts/"
     },
     {
-        "project_name": "American Sign Language Detection for end device",
-        "url": "https://github.com/codePerfectPlus/ASL"
+        "project_name": "FileMoverGUI",
+        "description": "GUI tool to manage files smartly",
+        "url": "https://github.com/Py-Contributors/FileMoverGUI"
     }
 ]

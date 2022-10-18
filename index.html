@@ -127,6 +127,7 @@ title: resume
             {% for project in site.data.projects %}
             <li>
               <a href="{{project.url}}"><span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>{{project.project_name}}</a>
+              <p>{{project.description}}</p>
             </li>            
             {% endfor %}
           </ul>
