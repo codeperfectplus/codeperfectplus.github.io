@@ -6,6 +6,29 @@
         "is_pypi": false
     },
     {
+        "project_name": "Sanatio",
+        "description": "Document, String, Number, Date, Email, Username, Password Validator for Python",
+        "github_url": "https://github.com/py-contributors/sanatio",
+        "is_pypi": true,
+        "pypi_url": "https://pypi.org/project/sanatio/"
+    },
+    {
+        "project_name": "RandomProfileGenerator",
+        "description": "Generate random profiles for your projects",
+        "github_url": "https://github.com/Py-Contributors/RandomProfileGenerator",
+        "is_pypi": true,
+        "pypi_name": "random-profile",
+        "pypi_url": "https://pypi.org/project/random-profile/"
+    },
+    {
+        "project_name": "movens",
+        "description": "GUI tool to manage files smartly",
+        "github_url": "https://github.com/Py-Contributors/FileMoverGUI",
+        "is_pypi": true,
+        "pypi_name": "movens",
+        "pypi_url": "https://pypi.org/project/movens/"
+    },
+    {
         "project_name": "AudioBook",
         "description": "Listen to your favorite books with this audiobook app",
         "github_url": "https://github.com/Py-Contributors/audiobook",
@@ -20,14 +43,6 @@
         "is_pypi": true,
         "pypi_name": "dataset-convertor",
         "pypi_url": "https://pypi.org/project/dataset-convertor/"
-    },
-    {
-        "project_name": "RandomProfileGenerator",
-        "description": "Generate random profiles for your projects",
-        "github_url": "https://github.com/Py-Contributors/RandomProfileGenerator",
-        "is_pypi": true,
-        "pypi_name": "random-profile",
-        "pypi_url": "https://pypi.org/project/random-profile/"
     },
     {
         "project_name": "Website Cloner",
@@ -48,11 +63,6 @@
         "description": "collections for useful python scripts",
         "github_url": "https://github.com/Py-Contributors/awesomeScripts/",
         "is_pypi": false
-    },
-    {
-        "project_name": "FileMoverGUI",
-        "description": "GUI tool to manage files smartly",
-        "github_url": "https://github.com/Py-Contributors/FileMoverGUI",
-        "is_pypi": false
     }
+
 ]
