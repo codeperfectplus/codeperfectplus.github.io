@@ -1,10 +1,13 @@
 [
     {
-        "job_title": "Associate Data Scientist",
-        "company": "Scry Analytics, Gurugram",
+        "job_title": "Data Scientist",
+        "company": "Scry AI, Gurugram",
         "description": [
-            "Create ML pipeline to extract entity/value from IDs(e.g. Passports, Driver’s Licence) in PDF images formats using OCR, text preprocessing, text classification for collatio.",
-            "Improved the OCR model by introducing the boundary detection model for differentiating between multiple cards in a single doc."
+            "Increased document processing efficiency by implementing a YoloV5 object detection model within the OCR pipeline, achieving 97% accuracy in document identification.",
+            "Enhanced the auto KYC product by leveraging NLP libraries to automate customer verification and streamline onboarding. This resulted in faster customer acquisition and improved user experience.",
+            "Automated insurance product illustration generation through reverse engineering, eliminating legacy code and boosting processing speed.",
+            "Established a robust product onboarding pipeline, significantly improving the efficiency of new product acquisitions."
+
         ],
         "time_period": "April 2022 - Present"
     },
@@ -12,10 +15,10 @@
         "job_title": "Associate Data Scientist",
         "company": "Datakalp, Banglore",
         "description": [
-            "Designed, developed, and implemented computer vision solutions for business problems.",
-            "Experienced in building robust APIs, Data pipelines to handle configuration, deployment, and benchmarking of ML/AI models using FastAPI / Flask frameworks.",
+            "Experienced in building robust APIs and data pipelines to handle configuration, deployment, and benchmarking of ML/AI models using FastAPI / Flask frameworks.",
             "Building and maintaining dashboards and other reporting tools to monitor targeting models, and other business metrics relevant to managing core data science products.",
-            "Experienced in visually impactful web dashboards, and client reports with Python (Dash/H2O Wave), Tableau, and Powerpoints for product output, performance, and accuracy to understand user behavior and improve the product."
+            "Experienced in visually impactful web dashboards, and client reports with Python (Dash/H2O Wave), Tableau, and Powerpoints for product output, performance, and accuracy to understand user behaviour and improve the product."
+
         ],
         "time_period": "Sep 2021 - Mar 2022"
     },

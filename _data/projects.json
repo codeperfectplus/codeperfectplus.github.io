@@ -6,6 +6,12 @@
         "is_pypi": false
     },
     {
+        "project_name": "Gold Silver Billing",
+        "description": "A billing software for gold and silver shop",
+        "github_url": "https://github.com/Py-Contributors/GoldSilverBilling",
+        "is_pypi": false
+    },
+    {
         "project_name": "Sanatio",
         "description": "Document, String, Number, Date, Email, Username, Password Validator for Python",
         "github_url": "https://github.com/py-contributors/sanatio",
@@ -56,12 +62,6 @@
         "project_name": "Stock-Dashboard",
         "description": "Dashboard/Alert to track stock prices",
         "github_url": "https://github.com/Py-Contributors/Stock-Dashboard",
-        "is_pypi": false
-    },
-    {
-        "project_name": "Awesome-Python-Scripts",
-        "description": "collections for useful python scripts",
-        "github_url": "https://github.com/Py-Contributors/awesomeScripts/",
         "is_pypi": false
     }
 
