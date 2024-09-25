@@ -116,35 +116,7 @@ title: resume
   <!-- Projects -->
   <section class="resume-section" id="projects">
     <div class="resume-section-content">
-      <h2 class="mb-5 text-primary"><i class="fas fa-trophy text-warning"></i> Projects</h2>
-      
-      <!-- <table class="table">
-        <thead class="thead-dark">
-          <tr>
-            <th scope="col">Project Name</th>
-            <th scope="col">Description</th>
-            <th scope="col">PyPI Support</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for project in site.data.projects %}
-          {% if project.is_pypi %}
-            <tr>
-              <td scope="col"><a href="{{project.github_url}}"><span class="fa-li"><i class="fab fa-github text-primary"></i></span>{{project.project_name}}</a> </td>
-              <td scope="col">{{project.description}}</td>
-              <td scope="col">✅</td>
-            </tr>
-          {% else %}
-            <tr>
-              <td scope="col"><a href="{{project.github_url}}"><span class="fa-li"><i class="fab fa-github text-primary"></i></span>{{project.project_name}}</a></td>
-              <td scope="col">{{project.description}}</td>
-              <td scope="col">❌</td>
-            </tr>
-          {% endif %}
-          {% endfor %}
-        </tbody>
-      </table> -->
-      
+      <h2 class="mb-5 text-primary"><i class="fas fa-trophy text-warning"></i> Open Source Projects</h2>
       <ul class="fa-ul mb-0">
         {% for project in site.data.projects %}
           <li>
