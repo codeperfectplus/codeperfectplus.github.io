@@ -1,4 +1,14 @@
 [
+
+    {
+        "job_title": "Founder & CEO",
+        "company": "SystemGuard",
+        "description": [
+            "Founded SystemGuard and led full project lifecycle: Initiated, developed, and managed  project for real-time system & service monitoring, visualization, alerting & threat detection and service monitoring.",
+            "Architected a comprehensive monitoring solution: Designed a system that captures and displays core server metrics, including CPU, memory, disk, and network usage.",
+        ],
+        "time_period": "Aug 2024 - Present"
+    },
     {
         "job_title": "Data Scientist",
         "company": "Scry AI, Gurugram",
@@ -16,7 +26,7 @@
         "company": "Datakalp, Banglore",
         "description": [
             "Experienced in building robust APIs and data pipelines to handle configuration, deployment, and benchmarking of ML/AI models using FastAPI / Flask frameworks.",
-            "Building and maintaining dashboards and other reporting tools to monitor targeting models, and other business metrics relevant to managing core data science products.",
+            "Developed and maintained interactive dashboards and reporting tools that improved tracking of targeting models and enhanced management of key business metrics, leading to more informed decision-making.",
             "Experienced in visually impactful web dashboards, and client reports with Python (Dash/H2O Wave), Tableau, and Powerpoints for product output, performance, and accuracy to understand user behaviour and improve the product."
 
         ],
