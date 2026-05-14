@@ -1,0 +1,230 @@
+/* ============================================================
+   Custom Resume Enhancements
+   ============================================================ */
+
+/* --- About: contact line --- */
+.contact-line {
+  font-size: 0.92rem;
+  color: #6c757d;
+  margin-bottom: 1.25rem;
+  text-transform: none;
+  font-family: "Muli", sans-serif;
+}
+.contact-line a {
+  color: #6c757d;
+  text-decoration: none;
+}
+.contact-line a:hover {
+  color: #32a7eb;
+}
+.contact-line i {
+  font-size: 0.85rem;
+}
+
+/* --- Social icons: lift on hover --- */
+.social-icon {
+  transition: background-color 0.2s ease, transform 0.2s ease !important;
+}
+.social-icon:hover {
+  transform: translateY(-3px);
+}
+
+/* --- Section headings: icon alignment --- */
+.section-heading-icon {
+  vertical-align: middle;
+  margin-right: 0.6rem;
+  margin-bottom: 0.1rem;
+}
+
+/* --- Experience: timeline list --- */
+.exp-list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+.exp-list li {
+  position: relative;
+  padding-left: 1.4rem;
+  margin-bottom: 0.55rem;
+  color: #6c757d;
+  line-height: 1.65;
+}
+.exp-list li::before {
+  content: '\25B8';
+  color: #32a7eb;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: 700;
+}
+
+/* Experience company + location row */
+.exp-company-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.exp-location {
+  font-size: 0.8rem;
+  text-transform: none;
+  font-family: "Muli", sans-serif;
+  font-weight: 400;
+  color: #adb5bd;
+}
+
+/* Time period badge */
+.badge-period {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  white-space: nowrap;
+  letter-spacing: 0.03rem;
+}
+
+/* --- Skills: categorized tag grid --- */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.75rem;
+}
+.skill-category-title {
+  font-size: 0.82rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.07rem;
+  color: #343a40;
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.skill-tag {
+  display: inline-block;
+  padding: 0.28rem 0.7rem;
+  background: #eef6fd;
+  color: #1a7cc1;
+  border: 1px solid #c2dff5;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  font-family: "Muli", sans-serif;
+  text-transform: none;
+  transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+  cursor: default;
+}
+.skill-tag:hover {
+  background: #32a7eb;
+  color: #fff;
+  border-color: #32a7eb;
+}
+
+/* --- Certificates: card layout --- */
+.cert-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.9rem;
+  padding: 1rem 1.1rem;
+  background: #f8f9fa;
+  border-left: 3px solid #32a7eb;
+  border-radius: 0.4rem;
+  height: 100%;
+  transition: box-shadow 0.2s ease;
+}
+.cert-card:hover {
+  box-shadow: 0 3px 10px rgba(50, 167, 235, 0.12);
+}
+.cert-icon {
+  font-size: 1.3rem;
+  flex-shrink: 0;
+  margin-top: 0.15rem;
+}
+.cert-card h5 {
+  font-size: 0.88rem;
+  text-transform: none;
+  color: #343a40;
+  margin-bottom: 0.2rem;
+  line-height: 1.35;
+}
+.cert-issuer {
+  font-size: 0.78rem;
+  color: #adb5bd;
+  text-transform: none;
+  font-family: "Muli", sans-serif;
+}
+
+/* --- Projects: card layout --- */
+.project-card {
+  padding: 1.1rem 1.25rem;
+  background: #fff;
+  border-radius: 0.5rem;
+  border: 1px solid #e4edf5;
+  height: 100%;
+  transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+}
+.project-card:hover {
+  box-shadow: 0 6px 18px rgba(50, 167, 235, 0.13);
+  transform: translateY(-2px);
+  border-color: #b8d9f0;
+}
+.project-title {
+  font-weight: 800;
+  color: #343a40;
+  text-decoration: none;
+  text-transform: none;
+  font-family: "Muli", sans-serif;
+  font-size: 0.95rem;
+}
+.project-title:hover {
+  color: #32a7eb;
+}
+.project-desc {
+  font-size: 0.83rem;
+  color: #6c757d;
+  margin-bottom: 0;
+  text-transform: none;
+  font-family: "Muli", sans-serif;
+}
+.badge-pypi {
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 0.22rem 0.5rem;
+  background: #28a745;
+  color: #fff;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  vertical-align: middle;
+}
+
+/* --- Subheading: suppress uppercase for address line --- */
+.subheading-sm {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 500;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  color: #6c757d;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}
+
+/* --- Section divider spacing --- */
+hr.section-divider {
+  margin: 0;
+  border-color: #e9ecef;
+}
+
+/* --- Responsive tweaks --- */
+@media (max-width: 576px) {
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+  .contact-line {
+    font-size: 0.82rem;
+  }
+}

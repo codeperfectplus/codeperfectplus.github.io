@@ -1,14 +1,14 @@
 [
   {
-    "institute":"University of Delhi",
-    "course": "Bachelor of Science",
-    "description":  "",
-    "time_period": "2013-2016"
+    "institute": "IMS ProSchool",
+    "course": "PG Diploma in Data Science",
+    "description": "Specialisation in Machine Learning, Deep Learning, and Computer Vision Essentials",
+    "time_period": "2019 – 2020"
   },
   {
-    "institute": "Ims ProSchool",
-    "course": "Pg in Data Science",
+    "institute": "University of Delhi",
+    "course": "Bachelor of Science",
     "description": "",
-    "time_period": "2019-2020"
+    "time_period": "2013 – 2016"
   }
 ]

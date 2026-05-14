@@ -1,45 +1,41 @@
 [
-
-    {
-        "job_title": "Founder & CEO",
-        "company": "SystemGuard",
-        "description": [
-            "Founded SystemGuard and led full project lifecycle: Initiated, developed, and managed  project for real-time system & service monitoring, visualization, alerting & threat detection and service monitoring.",
-            "Architected a comprehensive monitoring solution: Designed a system that captures and displays core server metrics, including CPU, memory, disk, and network usage.",
-        ],
-        "time_period": "Aug 2024 - Present"
-    },
-    {
-        "job_title": "Data Scientist",
-        "company": "Scry AI, Gurugram",
-        "description": [
-            "Increased document processing efficiency by implementing a YoloV5 object detection model within the OCR pipeline, achieving 97% accuracy in document identification.",
-            "Enhanced the auto KYC product by leveraging NLP libraries to automate customer verification and streamline onboarding. This resulted in faster customer acquisition and improved user experience.",
-            "Automated insurance product illustration generation through reverse engineering, eliminating legacy code and boosting processing speed.",
-            "Established a robust product onboarding pipeline, significantly improving the efficiency of new product acquisitions."
-
-        ],
-        "time_period": "April 2022 - Present"
-    },
-    {
-        "job_title": "Associate Data Scientist",
-        "company": "Datakalp, Banglore",
-        "description": [
-            "Experienced in building robust APIs and data pipelines to handle configuration, deployment, and benchmarking of ML/AI models using FastAPI / Flask frameworks.",
-            "Developed and maintained interactive dashboards and reporting tools that improved tracking of targeting models and enhanced management of key business metrics, leading to more informed decision-making.",
-            "Experienced in visually impactful web dashboards, and client reports with Python (Dash/H2O Wave), Tableau, and Powerpoints for product output, performance, and accuracy to understand user behaviour and improve the product."
-
-        ],
-        "time_period": "Sep 2021 - Mar 2022"
-    },
-    {
-        "job_title": "AI Developer",
-        "company": "Appzlogic, Noida sec-2",
-        "description": [
-            "Designed, developed, and implemented computer vision and NLP problems using deep Learning and google cloud tools.",
-            "Worked closely with the android development team to deploy AI applications.",
-            "Build AI models from scratch and convert them into the application program interface."
-        ],
-        "time_period": "Feb 2021 - Aug 2021"
-    }
+  {
+    "job_title": "Senior Software Engineer",
+    "company": "Scry AI",
+    "location": "Noida, India",
+    "description": [
+      "Document Intelligence — Increased document processing efficiency by implementing a YOLOv5 object detection model within the OCR pipeline, achieving 97% accuracy in document identification.",
+      "Claim Automation — Automated the insurance claim process and reduced human involvement, cutting processing time from 21 days to 3–4 days.",
+      "Knowledge Graph & LLMs — Developed an advanced solution leveraging Abstract Syntax Trees (AST), Neo4j, LangChain, and Large Language Models (LLMs) to structure, store, and query insurance data, enabling end users to obtain accurate answers to insurance-related queries.",
+      "Reverse Engineering — Automated insurance product illustration generation through reverse engineering, eliminating legacy code and boosting processing speed.",
+      "Equity Research Automation — Automated the equity research process by extracting data from documents, mapping relationships, and generating industry-standard reports — reducing turnaround time from 3 days to 5 hours.",
+      "Legacy Modernisation — Migrated legacy Progress code to modern Java and Python; modernised a 20-year legacy application using NestJS and Next.js, deploying a high-performance B2B API.",
+      "Document Extraction — Built a document extraction system by combining two complementary algorithms, leading to more accurate and reliable results.",
+      "Computer Vision for Industry — Worked on computer vision use cases for industrial sites to strengthen security protocols and improve workplace safety.",
+      "Mentorship — Mentored junior developers on modern software design and architecture practices, helping build a team culture focused on learning and growth."
+    ],
+    "time_period": "April 2022 – Present"
+  },
+  {
+    "job_title": "Associate Data Scientist",
+    "company": "DataKalp LLP",
+    "location": "Bangalore, India",
+    "description": [
+      "ML APIs & Pipelines — Built robust APIs and data pipelines using FastAPI and Flask to handle configuration, deployment, and benchmarking of ML/AI models.",
+      "Dashboards & Reporting — Developed and maintained interactive dashboards and reporting tools that improved tracking of targeting models and enhanced management of key business metrics, leading to more informed decision-making.",
+      "Client Reporting — Delivered visually impactful web dashboards and client reports using Python (Dash/H2O), Tableau, and PowerPoint, providing insight into product output, performance, and user behaviour."
+    ],
+    "time_period": "Sep 2021 – Mar 2022"
+  },
+  {
+    "job_title": "AI Developer",
+    "company": "Appzlogic Mobility Solutions",
+    "location": "Noida, India",
+    "description": [
+      "Computer Vision & NLP — Designed, developed, and implemented computer vision and NLP solutions using deep learning frameworks for mobile-first deployment.",
+      "Mobile AI Integration — Worked closely with the Android development team to deploy AI applications into production mobile environments.",
+      "Stakeholder Coordination — Coordinated client appointments and supported executive meetings to ensure smooth project delivery."
+    ],
+    "time_period": "Feb 2021 – Aug 2021"
+  }
 ]

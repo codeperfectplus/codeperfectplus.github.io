@@ -7,16 +7,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 fname: Deepak
 lname: Raj
 full_name: Deepak Raj
-profile_pic: assets/img/profile.jpg
+profile_pic: assets/img/profile.png
 email: deepak008@live.com
-mobile: +91- 9818183049
-address: New Delhi
+mobile: +91 98181 83049
+address: Noida, India
+job_title: Senior Software Engineer | AI & Machine Learning Engineer
 linkedin_username: deepak-raj-35887386
 dev_username: codeperfectplus
-github_username:  codeperfectplus
-facebook_username: mrperfect9015
-about_me: >- # this means to ignore newlines until "baseurl:"
-  Data Scientist (4 yrs) | Insurance & Healthcare AI Expert. Leverage CV & Deep Learning to optimize operations & decision-making.
+github_username: codeperfectplus
+about_me: >-
+  Data Scientist with 5+ years of experience delivering production-grade AI/ML solutions across Insurance, Healthcare, and Financial Services. Specialised in Computer Vision, Deep Learning, and Large Language Models (LLMs), with a proven track record of reducing operational cycle times by up to 85% through intelligent automation. Strong background in modernising legacy systems, mentoring engineers, and architecting end-to-end pipelines spanning data extraction, model deployment, and full-stack delivery.
 
 # Build settings
 theme: minima

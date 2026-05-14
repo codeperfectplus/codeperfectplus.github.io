@@ -7,8 +7,8 @@ RUN apt-get update && apt-get install -y build-essential libffi-dev nodejs
 # Set the working directory
 WORKDIR /usr/src/app
 
-# Copy the Gemfile only
-COPY Gemfile ./
+# Copy Gemfile and lock file to ensure consistent gem versions
+COPY Gemfile Gemfile.lock ./
 
 # Install the required gems (including Jekyll)
 RUN bundle install
